@@ -54,9 +54,9 @@ const upgraded_posts=[
     user:"나",
     userid:"4",
     contents:[
-      {id:'1', image: "https://www.amc.seoul.kr/healthinfo/health/attach/img/33635/20130319130944_0_33635.jpg", caption: "오전 7시 18분", title:"#지금은"},
-      {id:'2', image: "https://i.namu.wiki/i/ZvOM833QHMYxXHj_JNJWS39N6I-6MBwyDcVJuEKxbckTbx6DxpaqKW7Z-FNPHHPZuiAkYd7FhPPjJ1bTe2iwM4sJ0WOgHDLIqUPGC__F9-g3tLou0piF7k-zlqXOzrhEcP3HembjrD787VQjLXjNLw.webp", caption: "지났어", title:"#오전 #6시"},
-      {id:'3', image: "https://i.namu.wiki/i/jp_KZcXsmu5myZAG3ZSa_r6S3b2k8xo0BPixZUUNKPXhwNvUbamiDIH8jw0lZuMDI-O3WBaFnIK1rskzTU1KSWKJOzIyuy1jAT9GuBr4gwKnWNeNPB0Yu5azOym5d165PviFlB9e3HtsI0nfV62H3A.webp", caption: "살려줘.... 그냥 전반적인 상황이 너무 힘들어요 ㅠㅠㅠ", title:"#수면시간 #0"}
+      {id:'1', image: "https://www.whosaeng.com/imgdata/whosaeng_com/201804/2018041722487872.jpg", caption: "오전 7시 18분", title:"#지금은"},
+      {id:'2', image: "https://i.namu.wiki/i/FjLzypm4_5sEcX_mUD-fV1ot9j4BWmI9uDZg640gCRwkiQUUt1ivuo8vDS-2R52QPZqNzlQPs23jy15nxcCMxeEDEL3c0nfEi7jGRmz6gL8GCvCI7Hb7ZVEKrGZA4uEZdYP5tSwJpEvdRevWl-s48w.webp", caption: "지났어", title:"#오전 #6시"},
+      {id:'3', image: "https://i.namu.wiki/i/38JHIikuTwUctdJ2oBjwuUG5mjmTXn39rU1pMe2I6iegV12uYqK_on7CSUdWtziwUXCmrHnGgvdppdQD8LgOfdVW1LJc0UfNlmkvjLwPnqi3fcYTbMhQ9R9CCtnASnerQ0c5fpBwiiMfir424Uei1Q.webp", caption: "살려줘", title:"#수면시간 #0"}
     ]
   }
 ]
